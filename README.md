@@ -47,6 +47,11 @@ Microsoft Excel was used extensively for data cleaning, analysis, visualization,
 
 3. **Dashboard Creation**  
    - Developed interactive Excel dashboards highlighting revenue by country, opportunity sources, and team performance metrics.
+  
+   
+![Image Alt](https://github.com/Mutahar1/Salesforce-Data-Analysis/blob/236b27f90e79affda1d0535da2099bfa9335d131/Screenshot%202026-01-22%20133857.png)
+![Image Alt](https://github.com/Mutahar1/Salesforce-Data-Analysis/blob/236b27f90e79affda1d0535da2099bfa9335d131/Screenshot%202026-01-22%20133904.png)
+![Image Alt](https://github.com/Mutahar1/Salesforce-Data-Analysis/blob/236b27f90e79affda1d0535da2099bfa9335d131/Screenshot%202026-01-22%20133916.png)
 
 ---
 
@@ -65,7 +70,8 @@ Microsoft Excel was used extensively for data cleaning, analysis, visualization,
 - **Revenue by Country Bar Chart:** Shows comparative revenue metrics across countries.  
 - **Closed Orders & Opportunity Sources:** Breakdowns by team and channel.
 
-*(Refer to the `images/` folder for screenshots and visuals.)*
+
+![Image Alt](https://github.com/Mutahar1/Salesforce-Data-Analysis/blob/236b27f90e79affda1d0535da2099bfa9335d131/Screenshot%202026-01-22%20133934.png)
 
 ---
 
@@ -76,7 +82,8 @@ This analysis empowers decision-makers to:
 - Focus investment on high-impact channels like Website and Paid Social.  
 - Leverage strong regional teams such as France and LATAM.  
 - Maintain ongoing data quality checks for reliable insights.
-
+![Image Alt](https://github.com/Mutahar1/Salesforce-Data-Analysis/blob/236b27f90e79affda1d0535da2099bfa9335d131/Screenshot%202026-01-22%20133925.png)
+![Image Alt](https://github.com/Mutahar1/Salesforce-Data-Analysis/blob/236b27f90e79affda1d0535da2099bfa9335d131/Screenshot%202026-01-22%20133911.png)
 ---
 
 
